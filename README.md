@@ -1,6 +1,6 @@
 # 📚 AluraBooks
 
-Site front-end estiloso e responsivo para livraria de tecnologia, desenvolvido como projeto do curso de Front-End da Alura em 2023.  
+Site front-end estiloso e responsivo para livraria de tecnologia, desenvolvido como projeto do curso de Front-End da Alura.  
 Implementa carrossel interativo, menu hambúrguer responsivo, área de contato e rodapé completo.
 
 🔗 [Veja a demonstração em GitHub Pages](https://pedrofaleirosss.github.io/alurabooks/)  
