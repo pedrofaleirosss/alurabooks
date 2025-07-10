@@ -80,19 +80,23 @@ O site está disponível online neste link:
 
 ## 🎞 Demonstrações
 
-- **Modo desktop:**
+### 🖥️ Modo Desktop
 
-![image](https://github.com/user-attachments/assets/a0c0a851-1d43-4c2c-9765-ec05768bf99a)
-![image](https://github.com/user-attachments/assets/a09d4dd8-baa2-43e4-830d-57d93ce950fd)
-![image](https://github.com/user-attachments/assets/f3506f27-e665-4edb-8466-1d88328ae946)
-![image](https://github.com/user-attachments/assets/28f451aa-d79f-43f4-8524-ecf816bf6c37)
-![image](https://github.com/user-attachments/assets/b3cc2e6a-5639-4982-bc83-ecf0452caa98)
-  
-- **Versão mobile:**
+<div>
+  <img src="https://github.com/user-attachments/assets/a0c0a851-1d43-4c2c-9765-ec05768bf99a" width="80%" />
+  <img src="https://github.com/user-attachments/assets/a09d4dd8-baa2-43e4-830d-57d93ce950fd" width="80%" />
+  <img src="https://github.com/user-attachments/assets/f3506f27-e665-4edb-8466-1d88328ae946" width="80%" />
+  <img src="https://github.com/user-attachments/assets/28f451aa-d79f-43f4-8524-ecf816bf6c37" width="80%" />
+  <img src="https://github.com/user-attachments/assets/b3cc2e6a-5639-4982-bc83-ecf0452caa98" width="80%" />
+</div>
 
-![image](https://github.com/user-attachments/assets/7eac5562-e0c0-4e03-ae0f-ec9cb2ed9289)
-![image](https://github.com/user-attachments/assets/ed30571f-fb3c-4e98-99e3-3d0fe6c49e34)
-![image](https://github.com/user-attachments/assets/489f227e-33f2-4e27-82f1-8818bfff05a6)
+### 📱 Versão Mobile
+
+<div>
+  <img src="https://github.com/user-attachments/assets/7eac5562-e0c0-4e03-ae0f-ec9cb2ed9289" width="35%" />
+  <img src="https://github.com/user-attachments/assets/ed30571f-fb3c-4e98-99e3-3d0fe6c49e34" width="35%" />
+  <img src="https://github.com/user-attachments/assets/489f227e-33f2-4e27-82f1-8818bfff05a6" width="35%" />
+</div>
 
 ---
 
